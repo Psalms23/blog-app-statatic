@@ -1,0 +1,8 @@
+name: 'Jay Donguines'
+super: true
+id: 17f5819c-db08-4956-98dc-f1b707c54e38
+password_hash: $2y$10$F2tQF1XuwLAIEwXttXnIU.R3PO3T7hL1gX2Usf7qELFJVBiVg0hPu
+preferences:
+  assets:
+    assets:
+      mode: grid
